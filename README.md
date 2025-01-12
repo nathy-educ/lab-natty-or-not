@@ -7,7 +7,9 @@ Este e-book, direcionado para crianças, contém 5 receitas de brigadeiro fácei
 🤖 Tecnologias Utilizadas
 
 IA Generativa ChatGPT para roteirização;
+
 IA Generativa ChatGPT para criar a arte visual para a capa do e-book;
+
 Ferramenta Powerpoint para diagramação.
 
 🧐 Processo de Criação
